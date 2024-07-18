@@ -14,7 +14,7 @@ export default function TopCompany(){
 
 
                 
-                <button className="lg:w-[150px] lg:h-[54px] md:w-[120px] md:h-[43px] sm:w-[100px] sm:h-[37px] xs:w-[100px] sm:h-[37px] border-[#282D45] border-2 rounded-[46px] flex justify-center items-center bg-gradient-to-r from-slate-600 via-transparent   to-slate-600 bg-[length:400%_400%] bg-center  hover:bg-[#ffffff] hover:transition-all hover:duration-300 mt-5 p-2">
+                <button className="lg:w-[150px] lg:h-[54px] md:w-[120px] md:h-[43px] sm:w-[100px] sm:h-[37px] xs:w-[100px] xs:h-[37px] border-[#282D45] border-2 rounded-[46px] flex justify-center items-center bg-gradient-to-r from-slate-600 via-transparent   to-slate-600 bg-[length:400%_400%] bg-center  hover:bg-[#ffffff] hover:transition-all hover:duration-300 mt-5 p-2">
                     <p className="text-[#47507A] font-semibold lg:text-xl md:text-base sm:text-sm xs:text-xs flex mr-2 ">Sort by</p>
                     <img src={Arrow} className="lg:w-1/5 md:w-1/6 sm:w-[14%] xs:w-[12.5%]" />
                 </button>

@@ -9,3 +9,7 @@
     /* text-align: center; */
     background: #060B27;
 }
+
+.no-scrollbar::-webkit-scrollbar{
+    display: none;
+}
