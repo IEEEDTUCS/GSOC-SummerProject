@@ -7,7 +7,7 @@ function App() {
   return (
   // <TopCompany />
   // <div><CompanyBox /></div>
-  <div><CompanyList /></div>
+  <div><TopCompany /></div>
   );
 }
 
