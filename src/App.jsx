@@ -4,13 +4,12 @@ import CompanyBox from "./components/Company-List/company.box.component";
 import Filter from "./components/Company-List/Filter";
 import CompanyList from "./components/Company-List/page.company";
 function App() {
-  const a = 23;
-  console.log(a);
   return (
   // <TopCompany />
   // <div><CompanyBox /></div>
-  <div><CompanyBox /></div>
+  <div><CompanyList /></div>
   );
 }
 
 export default App;
+
