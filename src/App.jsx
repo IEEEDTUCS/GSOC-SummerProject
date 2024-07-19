@@ -6,10 +6,8 @@ import CompanyList from "./_components/Company-List/page.company";
 function App() {
 
   return (
-    <>
-      <Home/>
-      
-      <div><TopCompany /></div>
+    <>      
+      <div><CompanyList /></div>
     </>
   );
 }

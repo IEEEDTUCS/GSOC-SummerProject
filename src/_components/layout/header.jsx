@@ -1,7 +1,5 @@
 // header banana hai as a component and then make it position fixed  on top
-<<<<<<< HEAD
 // comopent name - <Header> 
-=======
 // comopent name - <Header> 
 import React, { useState } from 'react'
 
@@ -28,5 +26,4 @@ const Header = () => {
   )
 }
 
-export default Header
->>>>>>> 5c5e50a29bc02c0fc9218c2c7455626d7ab26042
+export default Header;
