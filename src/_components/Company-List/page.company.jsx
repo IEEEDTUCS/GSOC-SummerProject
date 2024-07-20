@@ -9,7 +9,7 @@ const CompanyCard = ({ character }) => (
     <img src={character.image} alt={character.heading.name} className="rounded-t-lg w-full h-40 object-cover " />
 
     <div className="p-3">
-    <h2 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">{character.heading.name}</h2>
+    <h2 className="mb-2 text-2xl font-bold tracking-tight text-white">{character.heading.name}</h2>
     <h3 className="text-sm italic text-gray-400">{character.heading.title}</h3>
 
     <p className="font-normal text-[#8F9BB7] dark:text-gray-400">{character.description}</p>
