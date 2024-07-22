@@ -3,8 +3,6 @@
 import HomeCard from "@components/HomeCard/HomeCard";
 
 function Home() {
-  const a = 23;
-  console.log(a);
   return (
     <>
       <h1 className="text-3xl font-bold">A GSOC dashboard for IEEE DTU</h1>
