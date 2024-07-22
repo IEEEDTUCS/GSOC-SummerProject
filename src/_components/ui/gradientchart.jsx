@@ -15,7 +15,7 @@ export default function Component() {
     }
   }
   const chartData = [
-    { year: "", projects: 0},
+    { year: "~", projects: 0},
     { year: "2016", projects: 4},
     { year: "2017", projects: 2},
     { year: "2018", projects: 3},
@@ -23,9 +23,7 @@ export default function Component() {
     { year: "2020", projects: 6},
     { year: "2022", projects: 2},
     { year: "2023", projects: 5},
-    { year: "2024", projects: 6},
-    { year: "", projects: 0},
-
+    { year: "2024", projects: 6}
   ]
   return (
     <Card className="border-transparent bg-[#080c24]">
