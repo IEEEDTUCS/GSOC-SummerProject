@@ -28,9 +28,9 @@ export default function Component() {
 
   ]
   return (
-    <Card className="border-black bg-[#080c24]">
+    <Card className="border-transparent bg-[#080c24]">
       <CardContent className="px-2 pt-4 sm:px-6 sm:pt-6">
-        <ChartContainer config={chartConfig} className="aspect-auto h-[186px] w-full">
+        <ChartContainer config={chartConfig} className="aspect-auto h-[180px] w-full">
           <AreaChart data={chartData} margin={{left: 12, right: 12}}>
             <defs>
               <linearGradient id="fillprojects" x1="0" y1="0" x2="0" y2="1">
