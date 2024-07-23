@@ -52,6 +52,13 @@ next Meet is scheduled on 15 Jul Monday
 - **Home** - Kanak & Harshit
 - **Our Team** - Anshuman
 
+### 22 Jul
+- **router** - Darsh Jain & Unnat Agrawal 
+- **Team** - Unnat
+- **company & Filter(with functionality) & top companies** - Hiten, Ishu, Sangam
+- **Past Project with data** - Hemant Singh and Akshit Sahu
+- **Home** - Kanak 
+
 ## Learning Material
 
 ### JavaScript
