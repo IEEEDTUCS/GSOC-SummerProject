@@ -5,6 +5,7 @@ import HomeCard from "@components/HomeCard/HomeCard";
 function Home() {
   return (
     <>
+    
       <h1 className="text-5xl font-semibold" style={{ background: 'linear-gradient(to bottom, #ffffff, #777777)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>A GSOC dashboard for IEEE DTU</h1><br />
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis non quia beatae velit ipsum, ullam at perspiciatis enim. Deserunt asperiores facere dolorum blanditiis, soluta atque vitae provident eligendi quaerat. Molestias?</p><br />
 
