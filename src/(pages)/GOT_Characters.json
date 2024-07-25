@@ -1,0 +1,183 @@
+[
+    {
+      "heading": {
+        "name": "Jon Snow",
+        "title": "King in the North"
+      },
+      "description": "Jon Snow, born Aegon Targaryen, is the son of Lyanna Stark and Rhaegar Targaryen, raised as the illegitimate son of Eddard Stark. He joins the Night's Watch and eventually becomes its Lord Commander. He plays a crucial role in the battle against the White Walkers and is later declared King in the North.",
+      "qualities": ["Brave", "Honorable", "Leader"],
+      "faction": "Stark/Targaryen",
+      "image": "https://assets-prd.ignimgs.com/2022/12/12/jon-snow-spinoff-1670857671219.jpg"
+    },
+    {
+      "heading": {
+        "name": "Daenerys Targaryen",
+        "title": "Mother of Dragons"
+      },
+      "description": "Daenerys Targaryen, also known as Dany, is the last confirmed member of House Targaryen. She is the daughter of King Aerys II Targaryen and Queen Rhaella. Daenerys is known for her dragons, her quest to reclaim the Iron Throne, and her journey from exile to conqueror.",
+      "qualities": ["Determined", "Charismatic", "Ambitious"],
+      "faction": "Targaryen",
+      "image": "https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/daenarys-1920.jpg?w=1200"
+    },
+    {
+      "heading": {
+        "name": "Tyrion Lannister",
+        "title": "Hand of the Queen"
+      },
+      "description": "Tyrion Lannister is the youngest child of Tywin Lannister and Joanna Lannister. Despite being looked down upon by his family for his dwarfism, he proves to be intelligent and resourceful. He serves as Hand of the King to Joffrey Baratheon and later Hand of the Queen to Daenerys Targaryen.",
+      "qualities": ["Intelligent", "Witty", "Diplomatic"],
+      "faction": "Lannister",
+      "image": "https://static-koimoi.akamaized.net/wp-content/new-galleries/2021/05/did-you-know-peter-dinklage-has-uncertain-about-playing-tyrion-lannister-in-game-of-thrones-heres-the-reason-why-001.jpg"
+    },
+    {
+      "heading": {
+        "name": "Arya Stark",
+        "title": "No One"
+      },
+      "description": "Arya Stark is the youngest daughter of Eddard and Catelyn Stark. After witnessing the murder of her father, she embarks on a journey of survival and revenge. She trains with the Faceless Men in Braavos and becomes a skilled assassin.",
+      "qualities": ["Resourceful", "Fearless", "Vengeful"],
+      "faction": "Stark",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/game-of-thrones-season-8-finale-arya-stark-1558351313.jpg?crop=1xw:0.6607744107744108xh;center,top&resize=2048:*"
+    },
+    {
+      "heading": {
+        "name": "Cersei Lannister",
+        "title": "Queen of the Andals and the First Men"
+      },
+      "description": "Cersei Lannister is the daughter of Tywin Lannister and Joanna Lannister. Ambitious and ruthless, she schemes to secure power for herself and her family. She becomes the Queen of the Seven Kingdoms after the death of her husband, King Robert Baratheon.",
+      "qualities": ["Cunning", "Ambitious", "Manipulative"],
+      "faction": "Lannister",
+      "image": "https://www.usajacket.com/blog/wp-content/uploads/2018/08/Game-Of-Thrones-Cersie-Lannister-Costume.jpg"
+    },
+    {
+      "heading": {
+        "name": "Sansa Stark",
+        "title": "Lady of Winterfell"
+      },
+      "description": "Sansa Stark is the eldest daughter of Eddard and Catelyn Stark. She starts off as a naive girl dreaming of becoming a queen but grows into a strong, politically savvy leader. Sansa endures numerous hardships but ultimately becomes the Lady of Winterfell and plays a key role in the North's fight for independence.",
+      "qualities": ["Resilient", "Wise", "Diplomatic"],
+      "faction": "Stark",
+      "image": "https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/sansa-stark-1920.jpg?w=1200"
+    },
+    {
+      "heading": {
+        "name": "Jaime Lannister",
+        "title": "Kingslayer"
+      },
+      "description": "Jaime Lannister, known as the Kingslayer, is the eldest son of Tywin Lannister. A skilled swordsman, he is infamous for killing King Aerys II Targaryen, an act that earned him his nickname. Jaime's character evolves from a morally ambiguous knight to a more honorable and complex figure.",
+      "qualities": ["Skilled", "Loyal", "Conflicted"],
+      "faction": "Lannister",
+      "image": "https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/jamie-lannister-1920.jpg?w=1200J"
+    },
+    {
+      "heading": {
+        "name": "Bran Stark",
+        "title": "Three-Eyed Raven"
+      },
+      "description": "Bran Stark is the second son of Eddard and Catelyn Stark. After being pushed from a tower and losing the use of his legs, he develops mystical abilities and eventually becomes the Three-Eyed Raven, a powerful seer with the ability to perceive past, present, and future events.",
+      "qualities": ["Wise", "Mysterious", "Powerful"],
+      "faction": "Stark",
+      "image": "https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/bran-stark-1920.jpg?w=1200"
+    },
+    {
+      "heading": {
+        "name": "Brienne of Tarth",
+        "title": "Lady Brienne"
+      },
+      "description": "Brienne of Tarth is a noblewoman and a skilled warrior. She is known for her unwavering sense of honor and loyalty. Brienne serves as a sworn sword to several key characters, including Renly Baratheon, Catelyn Stark, and Jaime Lannister.",
+      "qualities": ["Honorable", "Loyal", "Skilled"],
+      "faction": "Tarth/Stark",
+      "image": "https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/brienne-of-tarth-1920.jpg?w=1200"
+    },
+    {
+      "heading": {
+        "name": "Sandor Clegane",
+        "title": "The Hound"
+      },
+      "description": "Sandor Clegane, known as the Hound, is a fierce warrior with a brutal past. Despite his violent nature, he shows moments of compassion and complex morality. He has a deep-seated hatred for his brother, Gregor Clegane, and forms an unlikely bond with Arya Stark.",
+      "qualities": ["Fierce", "Compassionate", "Conflicted"],
+      "faction": "Clegane",
+      "image": "https://assets.change.org/photos/3/im/nm/efIMnMUauUOfKZz-800x450-noPad.jpg?1523831770"
+    },
+    {
+      "heading": {
+        "name": "Petyr Baelish",
+        "title": "Littlefinger"
+      },
+      "description": "Petyr Baelish, commonly known as Littlefinger, is a cunning and ambitious nobleman. He is a master manipulator, playing various factions against each other to achieve his own ends. Littlefinger's machinations have a significant impact on the political landscape of Westeros.",
+      "qualities": ["Cunning", "Ambitious", "Manipulative"],
+      "faction": "Baelish",
+      "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/game-of-thrones/1/13/Petyr_baelish.jpg?width=960"
+    },
+    {
+      "heading": {
+        "name": "Samwell Tarly",
+        "title": "Maester"
+      },
+      "description": "Samwell Tarly, often called Sam, is the eldest son of Randyll Tarly. Despite his lack of physical prowess, Sam's intelligence and bravery are crucial in the fight against the White Walkers. He joins the Night's Watch and later trains to become a Maester.",
+      "qualities": ["Intelligent", "Brave", "Kind"],
+      "faction": "Tarly/Night's Watch",
+      "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/09/17/09/sam-thrones.jpg?quality=75&width=1250&crop=3%3A2%2Csmart&auto=webp"
+    },
+    {
+      "heading": {
+        "name": "Jorah Mormont",
+        "title": "Exiled Knight"
+      },
+      "description": "Jorah Mormont is an exiled knight from Westeros who becomes a loyal advisor to Daenerys Targaryen. Despite his troubled past, Jorah is dedicated to Daenerys and plays a crucial role in her quest to reclaim the Iron Throne.",
+      "qualities": ["Loyal", "Brave", "Honorable"],
+      "faction": "Mormont/Targaryen",
+      "image": "https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/jorah-mormont-1920.jpg?w=1200"
+    },
+    {
+      "heading": {
+        "name": "Theon Greyjoy",
+        "title": "Prince of the Iron Islands"
+      },
+      "description": "Theon Greyjoy is the son of Balon Greyjoy and heir to the Iron Islands. Raised as a ward of Eddard Stark, Theon's identity is torn between his loyalty to the Starks and his Greyjoy heritage. His journey is one of redemption and self-discovery.",
+      "qualities": ["Conflicted", "Brave", "Loyal"],
+      "faction": "Greyjoy/Stark",
+      "image": "https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/theon-greyjoy-1920.jpg?w=1200"
+    },
+    {
+      "heading": {
+        "name": "Stannis Baratheon",
+        "title": "Lord of Dragonstone"
+      },
+      "description": "Stannis Baratheon is the second brother of King Robert Baratheon and the Lord of Dragonstone. Known for his stern and unwavering sense of duty, Stannis believes he is the rightful heir to the Iron Throne. His strict adherence to justice and law often leads to difficult choices.",
+      "qualities": ["Just", "Determined", "Unyielding"],
+      "faction": "Baratheon",
+      "image": "https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/stannis-1920.jpg?w=1200"
+    },
+    {
+      "heading": {
+        "name": "Melisandre",
+        "title": "The Red Woman"
+      },
+      "description": "Melisandre, also known as the Red Woman, is a priestess of the Lord of Light. She possesses powerful magical abilities and believes Stannis Baratheon is the prophesied hero Azor Ahai. Her faith and visions drive her to take drastic measures to fulfill her prophecies.",
+      "qualities": ["Mysterious", "Devout", "Powerful"],
+      "faction": "R'hllor/Baratheon",
+      "image": "https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/melisandre-1920.jpg?w=1200"
+    },
+    {
+      "heading": {
+        "name": "Gendry",
+        "title": "Blacksmith"
+      },
+      "description": "Gendry is the illegitimate son of King Robert Baratheon. Raised in King's Landing as a blacksmith's apprentice, Gendry becomes aware of his royal lineage and joins the fight against the Lannisters and White Walkers.",
+      "qualities": ["Loyal", "Skilled", "Determined"],
+      "faction": "Baratheon",
+      "image": "https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/gendry-1920.jpg?w=1200"
+    },
+    {
+      "heading": {
+        "name": "Yara Greyjoy",
+        "title": "Queen of the Iron Islands"
+      },
+      "description": "Yara Greyjoy is the daughter of Balon Greyjoy and sister to Theon Greyjoy. A fierce and capable leader, she commands her own ship and seeks to claim the Iron Islands for herself. Yara is a strong advocate for her people's independence.",
+      "qualities": ["Brave", "Leader", "Independent"],
+      "faction": "Greyjoy",
+      "image": "https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/yara-greyjoy-1920.jpg?w=1200"
+    }
+  ]
+  
