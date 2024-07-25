@@ -9,7 +9,7 @@ import React from "react";
 
 function Filter() {
   return (
-  <div className="w-[100vw] z-20 h-[100vh] bg-transparent ">
+  <div className="w-[100vw] z-20 h-[100vh] bg-transparent bg-white ">
 
     <div className="lg:w-5/12 md:w-6/12 sm:w-2/4 xs:w-11/12 h-[100vh] right-0 bg-[#060B27] absolute  border-l-[1px] border-white blur-sm"></div>
     <div className="lg:w-5/12 md:w-6/12 sm:w-2/4 xs:w-11/12 h-[100vh] right-0 absolute  overflow-y-scroll no-scrollbar px-8 pt-12 ">
