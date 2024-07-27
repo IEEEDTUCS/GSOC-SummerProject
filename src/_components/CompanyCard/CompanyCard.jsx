@@ -10,7 +10,7 @@ export default function CompanyCard({image,heading,description,qualities,faction
     </a>
     <div class="px-5 pb-5">
         <a href="#">
-            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">{heading}</h5>
+            <h5 class="mb-2 text-2xl font-bold tracking-tight text-white">{heading}</h5>
         </a>
         <p class=" font-normal text-[#8F9BB7] dark:text-gray-400">{description}</p>
         <hr class="h-px my-5 bg-gray-200 border-0 dark:bg-gray-700"></hr>

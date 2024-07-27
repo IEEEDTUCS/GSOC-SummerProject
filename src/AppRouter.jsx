@@ -12,20 +12,13 @@ import CompanyCard from '@components/CompanyCard/CompanyCard';
 
 const AppRouter = () => {
   return (
-    // <Router>
-    //   <Routes>
-    //     <Route exact path="/" element={<Home/>} />
-    //     <Route path="/dashboard" element={<Dashboard/>} />
-    //   </Routes>
-    // </Router>
-    <div>
-      <Header />
-      <Search />
-      {/* <CompanyCard /> */}
-      {/* <Filter /> */}
-      {/* <TopCompanies /> */}
-      <Footer />
-    </div>
+    <Router>
+      <Routes>
+        <Route exact path="/" element={<Home/>} />
+        <Route path="/dashboard" element={<Dashboard/>} />
+      </Routes>
+    </Router>
+    
   );
 };
 

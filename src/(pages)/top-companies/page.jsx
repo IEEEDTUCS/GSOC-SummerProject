@@ -6,7 +6,7 @@ import GOT_Characters from "../GOT_Characters";
 export default function CompanyList(){
 
   return (
-    <div className="mt-10" >
+    <div className="mt-20" >
       <div className="flex flex-col items-center justify-center">
       <p className="lg:text-6xl md:text-5xl sm:text-4xl xs:text-3xl font-semibold  text-transparent bg-clip-text bg-gradient-to-b from-white via-slate-200 to-slate-600 mt-3 p-4">Top Companies</p>
       
@@ -18,7 +18,7 @@ export default function CompanyList(){
 
 
 
-      <div className="flex flex-wrap justify-center gap-8 mt-10 mb-20">
+      <div className="flex flex-wrap justify-center gap-8 my-10 xs:px-6">
         {GOT_Characters.map((character, index) => (
           <CompanyCard
             key={index}
