@@ -9,7 +9,7 @@ const Header = () => {
     setIsActive(element)
   }
   return (
-    <div className='fixed top-0 left-0 right-0 text-white flex justify-around items-center py-4 border-box border-b-[1px] border-gray-800'>
+    <div className='fixed top-0 left-0 right-0 text-white flex justify-around bg-[#060B27] items-center py-4 border-box border-b-[1px] border-gray-800 '>
       <button>
         <img src="src/assets/logo.svg" alt="logo" />
       </button>
